@@ -1,0 +1,5 @@
+the CAD models are downloaded from GrabCad:
+
+https://grabcad.com/library/bicycle-helmet-10
+https://grabcad.com/library/motorcycle-helmet
+https://grabcad.com/library/hockey-helmet-simple-1
