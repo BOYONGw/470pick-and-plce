@@ -4,7 +4,7 @@
 This is the final project for ECE470 - Introduction to Robotics. This project utilizes camera sensor and forward/inverse kinematics to control the robot. The aim of the project is to allow the robot to perform a pick and place task given certain inputs.
 
 ## Setting up Code (Project Update 2) ##
-1. Clone this repository under catkin_ws/src using `git clone`
+1. Clone this repository using `git clone`
 2. Download Vrep/Coppeliasim
 3. run `./Coppeliasim` in the directory where Coppeliasim is downloaded
 4. set up correct environment using the .ttt file (also need to use remoteAPI)
