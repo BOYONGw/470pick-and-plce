@@ -7,7 +7,8 @@ This is the final project for ECE470 - Introduction to Robotics. This project ut
 1. Clone this repository under catkin_ws/src using `git clone`
 2. Download Vrep/Coppeliasim
 3. run `./Coppeliasim` in the directory where Coppeliasim is downloaded
-4. set up correct environment using the .ttt file
+4. set up correct environment using the .ttt file (also need to use remoteAPI)
+5. run simulation by executing the python file (e.g `python3 project.py`)
 
 
 ## Setting up Code (deprecated - used for Project Update 1) ##
